@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01.Creditos"
+             Title="Créditos">
+    <VerticalStackLayout>
+        <Label 
+            Text="Trabalho 01 de .NET MAUI"
+            FontSize="30"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Label Text="Feito por:"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+
+        <Label 
+            Text="Alice da Silva Marinho Gomes CB3025772"
+            FontSize="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Button Text="Voltar" Clicked="Voltar"/>
+    </VerticalStackLayout>
+</ContentPage>
