@@ -513,3 +513,4 @@ C:\Users\alice\source\repos\MAUI\TP01\TP01\obj\Debug\net9.0-windows10.0.19041.0\
 C:\Users\alice\source\repos\MAUI\TP01\TP01\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\alice\source\repos\MAUI\TP01\TP01\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\alice\source\repos\MAUI\TP01\TP01\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alice\source\repos\MAUI\TP01\TP01\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\TP01.sourcelink.json

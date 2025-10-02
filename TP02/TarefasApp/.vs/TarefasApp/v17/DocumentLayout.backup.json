@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskEditPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskAddPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskDetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TarefasApp.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskAddPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TarefasApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskEditPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\TaskDetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\AppShell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefasApp\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefasApp.csproj.user",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj.user",
+              "RelativeDocumentMoniker": "TarefasApp\\TarefasApp.csproj.user",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj.user",
+              "RelativeToolTip": "TarefasApp\\TarefasApp.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-10-02T20:39:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MauiProgram.cs",
+              "RelativeToolTip": "TarefasApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:38:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskManager.cs",
+              "RelativeToolTip": "TarefasApp\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:37:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:38:48.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:46:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskAddPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskAddPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\TaskAddPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:52:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\TaskDetail.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:46:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\TaskEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:51:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T03:16:39.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskDetail.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskDetail.xaml",
+              "RelativeToolTip": "TarefasApp\\TaskDetail.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:38:46.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefasApp.csproj",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj",
+              "RelativeDocumentMoniker": "TarefasApp\\TarefasApp.csproj",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TarefasApp.csproj",
+              "RelativeToolTip": "TarefasApp\\TarefasApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T18:38:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskAddPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskAddPage.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskAddPage.xaml",
+              "RelativeToolTip": "TarefasApp\\TaskAddPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:52:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\TaskEditPage.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\TaskEditPage.xaml",
+              "RelativeToolTip": "TarefasApp\\TaskEditPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:51:05.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:00:08.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\AppShell.xaml",
+              "RelativeToolTip": "TarefasApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:02:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\App.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\MAUI\\TP02\\TarefasApp\\TarefasApp\\App.xaml",
+              "RelativeToolTip": "TarefasApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T13:29:01.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

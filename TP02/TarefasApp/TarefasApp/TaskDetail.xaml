@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:TarefasApp.Models"
+             x:Class="TarefasApp.TaskDetail"
+             Title="Detalhes"
+             BackgroundColor="#F5F5F5">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Frame BackgroundColor="White"
+                   CornerRadius="10"
+                   Padding="15"
+                   HasShadow="True">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="{Binding Title}" 
+                           FontAttributes="Bold" 
+                           FontSize="18"
+                           TextColor="#333"/>
+                    <Label Text="{Binding Description}" 
+                           FontSize="14" 
+                           TextColor="#666"/>
+                    <Label Text="{Binding CreationDate, StringFormat='Criada em: {0:dd/MM/yyyy}'}"
+                           FontSize="14"
+                           TextColor="#666"/>
+                    <Label Text="{Binding Priority, StringFormat='Prioridade: {0}'}"
+                           FontSize="14"
+                           TextColor="#666"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Button Text="Editar" Clicked="OnEditClicked"
+                    BackgroundColor="LightBlue"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    HeightRequest="50"/>
+
+            <Button Text="Excluir" Clicked="OnDeleteClicked"
+                    BackgroundColor="#F44336"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    HeightRequest="50"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
